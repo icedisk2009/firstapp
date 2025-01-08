@@ -1,5 +1,5 @@
 import streamlit as st
-
+import random
 
 st.title('나의 첫번째 앱')
 st.text('\n\n')
