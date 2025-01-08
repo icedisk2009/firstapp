@@ -12,3 +12,7 @@ if st.button('랜덤 숫자 생성'):
 else:
   st.write('잘가')
 
+
+text_contents = '''This is some text'''
+st.download_button("Download some text", text_contents)
+
