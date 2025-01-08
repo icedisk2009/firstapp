@@ -10,5 +10,5 @@ st.button("Reset", type="secondary")
 if st.button('Say hello'):
   st.write('안녕, 오늘도 좋은 하루')
 else:
-  st.wirte('잘가')
+  st.write('잘가')
 
